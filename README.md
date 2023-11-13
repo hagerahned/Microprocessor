@@ -1,0 +1,4 @@
+# Microprocessor
+Microprocessor
+https://www.tinkercad.com/things/5Pdc5gpAd5G-neat-snicket/editel?sharecode=l1wAbEGXnr5aLv1nyd74BrkV9hwrQ2U7YNli2MFmAlQ
+Smart Switch electrical using PIR Motion Sensor
